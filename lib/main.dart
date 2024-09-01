@@ -1,12 +1,14 @@
 import 'package:flutter/material.dart';
-import 'package:sim_app/scene/menus.dart';
+import 'package:simple_app/screen/lastestRate.dart';
 
-void main(){
+void main() {
   runApp(MaterialApp(
+    title: "Exchange Currency",
     home: Scaffold(
-      appBar : AppBar(
-        title: Text('Simple App'),
+      appBar: AppBar(
+        title: const Text("Exchange Currency"),
       ),
-      body: Menus()
+      body: const LatestRate(),
     ),
-    ));}
+  ));
+}
