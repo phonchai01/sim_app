@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:simple_app/screen/lastestRate.dart';
+import 'package:sim_app/scenes/lastestRate.dart';
 
 void main() {
   runApp(MaterialApp(
