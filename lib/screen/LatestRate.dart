@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import 'package:simple_app/Rate.dart';
+import 'package:sim_app/Rate.dart';
 
 class LatestRate extends StatefulWidget {
   const LatestRate({super.key});
