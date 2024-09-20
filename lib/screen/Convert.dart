@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import 'package:simple_app/Currency.dart';
+import 'package:sim_app/Currency.dart';
 
 class Convert extends StatefulWidget {
   const Convert({super.key});
