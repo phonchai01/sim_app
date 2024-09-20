@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 <<<<<<< HEAD
-import 'package:simple_app/screens/lateRate.dart'; // Ensure this path is correct
+import 'package:sim_app/screens/lateRate.dart'; // Ensure this path is correct
 
 void main() {
   runApp(
